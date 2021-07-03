@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on React js Projects
 - 🌱 I’m currently learning modern React js
 - 👯 I’m looking to collaborate on tech industry
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with React js Documentation
 - 💬 Ask me about React js
 - 📫 How to reach me: facebook, instagram
 - 😄 Pronouns: He/His
